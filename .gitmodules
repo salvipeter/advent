@@ -1,0 +1,24 @@
+[submodule "advent2015"]
+	path = advent2015
+	url = https://github.com/salvipeter/advent2015
+[submodule "advent2016"]
+	path = advent2016
+	url = https://github.com/salvipeter/advent2016
+[submodule "advent2017"]
+	path = advent2017
+	url = https://github.com/salvipeter/advent2017
+[submodule "advent2018"]
+	path = advent2018
+	url = https://github.com/salvipeter/advent2018
+[submodule "advent2019"]
+	path = advent2019
+	url = https://github.com/salvipeter/advent2019
+[submodule "advent2020"]
+	path = advent2020
+	url = https://github.com/salvipeter/advent2020
+[submodule "advent2021"]
+	path = advent2021
+	url = https://github.com/salvipeter/advent2021
+[submodule "advent2022"]
+	path = advent2022
+	url = https://github.com/salvipeter/advent2022

@@ -1,0 +1,9 @@
+2015 CL     (+ OCaml, Prolog, SML)
+2016 Prolog (+ SML, C++)
+2017 SML
+2018 CL
+2019 Prolog (+ Scheme)
+2020 Nim    (+ Prolog, Julia, C)
+2021 SML    (+ Prolog, Forth, Julia, Nim)
+2022 AWK    (+ C, Prolog, Scheme)
+2023 Tcl    (+ ?)
