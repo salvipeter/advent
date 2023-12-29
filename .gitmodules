@@ -22,3 +22,6 @@
 [submodule "advent2022"]
 	path = advent2022
 	url = https://github.com/salvipeter/advent2022
+[submodule "advent2023"]
+	path = advent2023
+	url = https://github.com/salvipeter/advent2023
