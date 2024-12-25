@@ -7,3 +7,4 @@
 2021 SML    (+ Prolog, Forth, Julia, Nim)
 2022 AWK    (+ C, Prolog, Scheme)
 2023 Tcl    (+ AWK, SML, C/C++)
+2024 Various
